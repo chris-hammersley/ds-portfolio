@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Chris Hammersley's Data Science Portfolio
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chris
+last_name: Hammersley
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,47 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Hammersley Digital
+    url: https://hammersleydigital.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:chris@hammersleydigital.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/chris-hammersley
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/hammersley
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analysis & Visualization
+  - Conversion Rate Optimization
+  - Asymetric Problem Solving
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MA Media Studies
+    institution: The New School for Social Research
+    date_start: 09/2000
+    date_end: 05/2023
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/4.0 (Magna Cum Laude)
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Received a Master of Arts in Media Studies, which focused on an interdisciplinary curriculum in media theory, design and practice with an emphasis on the production of video, audio and Web-based media. I gained experience in creative media making, critical analysis, critical reflection, entrepreneurialism and management - guided by a faculty that includes noted filmmakers, researchers, designers and scholars. I pursued this degree while also working full-time; this degree was designed to accommodate working students and the flexible program enabled me to study both onsite and online.
+      
+      I am a firm believer in The New School's historical commitment to progressive education, activist orientation and the advancement of global perspectives.
+
+  - area: BA Communication
+    institution: Loyola University Chicago
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.58/4.0 (Cum Laude)
+
+      Received a Bachelor of Arts in Communication with special emphasis on Film & Video. I was one course shy of receiving a minor in Mythology and also spent two years studying Archaeology.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,73 +69,38 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 50
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 50
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 30
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: icon-running-person
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: icon-reading
+      - name: Craft Cocktails
         description: ''
         percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+        icon: icon-cocktails
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chris Hammersley is an accomplished, hands-on Digital Marketing and Ad Tech professional
+with a strong background in Data Analysis. He implements Paid Ads, SEO, Email, Paid Social 
+and other Digital Marketing strategies to increase a company's revenue. Chris thrives at 
+the intersection of data, technology, content, automation and process, where he finds creative, 
+cost-effective solutions to operational challenges. He mixes the art with the data science.
