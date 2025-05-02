@@ -3,21 +3,21 @@
 title: Chris Hammersley's Data Science Portfolio
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+# name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Chris
 last_name: Hammersley
 
 # Status emoji
-status:
-  icon: ''
+# status:
+#  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: Data Scientist

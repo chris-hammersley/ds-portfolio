@@ -6,7 +6,7 @@
 # Website name
 title: Chris Hammersley Data Science Portfolio
 # Website URL
-baseURL: '#'
+baseURL: 'https://chris-hammersley.github.io/ds-portfolio'
 
 ############################
 ## LANGUAGE
